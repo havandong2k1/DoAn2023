@@ -1,0 +1,10 @@
+  system.out.println("Enter the number of hours the employee worked. : ");
+        Scanner scanner = new Scanner (System.in);
+        int hours = Scanner.nextInt();
+        // the pay rate
+        system.out.println("Enter the payrate of employee. : ");
+        double payRate =Scanner.nextDouble();
+        //multiply the hours with payrate
+        double grossPay = hours * payRate;
+        //display result
+        system.out.println(grossPay);

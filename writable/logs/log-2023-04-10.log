@@ -1,0 +1,224 @@
+CRITICAL - 2023-04-10 22:38:44 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:38:44 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:38:48 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:38:48 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:39:09 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:39:09 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:15 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:15 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:17 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:17 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:17 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:17 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:17 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:17 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:18 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:18 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:18 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:18 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:18 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:18 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:40:36 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:40:36 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:41:36 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:41:36 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:42:07 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:42:07 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-10 22:46:00 --> Class 'App\Controllers\ListModel' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(931): App\Controllers\Student_Controller->IndexStudent()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(439): CodeIgniter\CodeIgniter->runController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-10 22:46:00 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

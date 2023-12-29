@@ -1,0 +1,5 @@
+STT,File Config,TA file,Tunel,Network,Service,Folder,Port,Protocol,Code
+1,server002.conf,hostingviet002.ta,tun12,10.55.0.0,openvpn-server@server002.service,/etc/openvpn/server/server002,1196,udp,server002
+2,server003.conf,hostingviet003.ta,tun13,10.56.0.0,openvpn-server@server003.service,/etc/openvpn/server/server003,1197,udp,server003
+3,server004.conf,hostingviet004.ta,tun14,10.57.0.0,openvpn-server@server004.service,/etc/openvpn/server/server004,1198,udp,server004
+4,server005.conf,hostingviet005.ta,tun15,10.58.0.0,openvpn-server@server005.service,/etc/openvpn/server/server005,1199,udp,server005

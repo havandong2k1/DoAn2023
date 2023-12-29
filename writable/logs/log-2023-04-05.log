@@ -1,0 +1,70 @@
+CRITICAL - 2023-04-05 08:22:16 --> Class 'App\Libraries\SftpConnection' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(904): App\Controllers\BaseController->initController()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(429): CodeIgniter\CodeIgniter->createController()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2023-04-05 08:27:08 --> Class 'App\Controllers\BaseController' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(309): include_once()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(282): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(888): class_exists()
+#6 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(424): CodeIgniter\CodeIgniter->startController()
+#7 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-04-05 08:27:41 --> Class 'App\Controllers\BaseController' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(309): include_once()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(282): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(888): class_exists()
+#6 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(424): CodeIgniter\CodeIgniter->startController()
+#7 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-04-05 08:29:25 --> Class 'App\Controllers\BaseController' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(309): include_once()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(282): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(888): class_exists()
+#6 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(424): CodeIgniter\CodeIgniter->startController()
+#7 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-04-05 08:29:25 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-04-05 08:31:05 --> Class 'App\Controllers\BaseController' not found
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(309): include_once()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(282): CodeIgniter\Autoloader\Autoloader->includeFile()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Autoloader/Autoloader.php(247): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#4 [internal function]: spl_autoload_call()
+#5 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(888): class_exists()
+#6 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(424): CodeIgniter\CodeIgniter->startController()
+#7 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/CodeIgniter.php(339): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/index.php(10): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-04-05 08:31:05 --> Uncaught ErrorException: include(): Filename cannot be empty in /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php:278
+Stack trace:
+#0 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(278): include()
+#2 /home/donghv/domains/donghv-ci4.onoffice.vn/public_html/system/Debug/Exceptions.php(147): CodeIgniter\Debug\Exceptions->render()
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#4 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
