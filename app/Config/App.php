@@ -20,7 +20,7 @@ class App extends BaseConfig
 	 *
 	 * @var string
 	 */
-	public $baseURL = 'https://donghv-ci4.onoffice.vn/';
+	public $baseURL = 'http://localhost/';
 
 	/**
 	 * --------------------------------------------------------------------------

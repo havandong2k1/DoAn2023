@@ -5,25 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="762a860b-8ffc-4158-b6a9-a5d37a005c1d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Controllers/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Filters/APIClientFilter.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Filters/StudentFilter.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Config/Constants.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Config/Constants.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Config/Filters.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Config/Filters.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Config/Routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Config/Routes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Config/Validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Config/Validation.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Controllers/Demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Controllers/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/Home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Controllers/StudentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/StudentController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Controllers/Test.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Controllers/ApiTax.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Filters/MyAuth.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Filters/MyAuth.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Libraries/Utils.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Libraries/Utils.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/BaseModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/BaseModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Models/StudentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Models/StudentModel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Views/Student/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/Student/add.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Views/Student/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/Student/edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Views/Student/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Views/Student/view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Config/App.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Config/App.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Controllers/User.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,20 +79,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/xampp/htdocs/ci4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/DoAn2023",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\HostingViet\DemoCi4\app\Views\User" />
@@ -154,6 +138,7 @@
       <workItem from="1683528247868" duration="2898000" />
       <workItem from="1683554288550" duration="1971000" />
       <workItem from="1683596150567" duration="12229000" />
+      <workItem from="1703822721803" duration="570000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,100 @@
+CRITICAL - 2023-12-29 05:04:15 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\DoAn2023\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\DoAn2023\index.php(9): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-29 05:04:15 --> Uncaught ErrorException: Undefined variable $viewFile in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 278)
+#1 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): include()
+#2 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#4 {main}
+
+Next ValueError: Path cannot be empty in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#1 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#2 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-29 05:04:53 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\DoAn2023\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\DoAn2023\index.php(9): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-29 05:04:53 --> Uncaught ErrorException: Undefined variable $viewFile in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 278)
+#1 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): include()
+#2 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#4 {main}
+
+Next ValueError: Path cannot be empty in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#1 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#2 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-29 05:06:11 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\DoAn2023\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\DoAn2023\index.php(9): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-29 05:06:11 --> Uncaught ErrorException: Undefined variable $viewFile in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 278)
+#1 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): include()
+#2 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#4 {main}
+
+Next ValueError: Path cannot be empty in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#1 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#2 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-29 05:06:15 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\DoAn2023\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\DoAn2023\index.php(9): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-29 05:06:15 --> Uncaught ErrorException: Undefined variable $viewFile in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 278)
+#1 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): include()
+#2 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#4 {main}
+
+Next ValueError: Path cannot be empty in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#1 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#2 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2023-12-29 05:06:15 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 C:\xampp\htdocs\DoAn2023\system\bootstrap.php(157): CodeIgniter\CodeIgniter->initialize()
+#1 C:\xampp\htdocs\DoAn2023\index.php(9): require('C:\\xampp\\htdocs...')
+#2 {main}
+CRITICAL - 2023-12-29 05:06:15 --> Uncaught ErrorException: Undefined variable $viewFile in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 278)
+#1 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(278): include()
+#2 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#3 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#4 {main}
+
+Next ValueError: Path cannot be empty in C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php:278
+Stack trace:
+#0 C:\xampp\htdocs\DoAn2023\system\Debug\Exceptions.php(147): CodeIgniter\Debug\Exceptions->render(Object(Error), 500)
+#1 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#2 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
